@@ -1,3 +1,5 @@
+![plot](./image/surfs-up.png)
+
 # Exploring Climate Data with SQLAlchemy
 
 ##Part 1: Analyse and Explore the Climate Data
